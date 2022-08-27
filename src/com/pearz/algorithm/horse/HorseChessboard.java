@@ -1,7 +1,5 @@
 package com.pearz.algorithm.horse;
 
-import javafx.scene.media.VideoTrack;
-
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.Comparator;
